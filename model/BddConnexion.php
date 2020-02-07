@@ -3,7 +3,7 @@
 define("HOST", "localhost"); // The host to connect to
 define("USER", "root"); // The database username
 define("PASSWORD", ""); // The database password // The database password
-define("DATABASE", "tmandallena"); // The database name
+define("DATABASE", "db"); // The database name
 
 class BddConnexion
 {
