@@ -21,6 +21,4 @@ The web application must fulfill several objectives:
 - Florian Simba 
 - Kevin Mutima
 - El Hadj Amadou Bah 
-- Benjamin Thomas
-
-[See it in action](https://florian-simba.emi.u-bordeaux.fr/CHU-Bdx/) 
+- Benjamin Thomas 
